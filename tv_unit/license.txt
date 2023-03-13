@@ -1,0 +1,11 @@
+Model Information:
+* title:	TV unit
+* source:	https://sketchfab.com/3d-models/tv-unit-9513a07afadd4755a05f15b0c178460a
+* author:	kdrkndmr24 (https://sketchfab.com/kdrkndmr24)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TV unit" (https://sketchfab.com/3d-models/tv-unit-9513a07afadd4755a05f15b0c178460a) by kdrkndmr24 (https://sketchfab.com/kdrkndmr24) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
